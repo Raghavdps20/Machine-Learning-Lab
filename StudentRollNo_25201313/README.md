@@ -10,15 +10,15 @@ This project implements supervised machine learning models to predict whether a
 passenger survived the Titanic disaster. The dataset contains passenger details
 such as class, sex, age, and fare, which are used to train and evaluate models.
 
-## Folder Structure
-StudentRollNo_25201313/
-│
-├── easy.ipynb
-├── moderate.ipynb
-├── hard.ipynb
-├── README.md
-└── requirements.txt
-
+## Folder Structure<br>
+StudentRollNo_25201313/<br>
+│<br>
+├── easy.ipynb<br>
+├── moderate.ipynb<br>
+├── hard.ipynb<br>
+├── README.md<br>
+└── requirements.txt<br>
+<br>
 ## Tasks Implemented
 - **Easy:** Logistic Regression using limited features (Pclass, Sex, Age)
 - **Moderate:** Support Vector Machine (Linear Kernel) with feature scaling and
